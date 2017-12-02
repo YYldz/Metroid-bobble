@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Animated\Samus.png</Source>
+      <Name>Animated\Samus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\Samus.xnb</Output>
+      <Time>2013-11-28T00:54:18.3395697+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\tex1.png</Source>
+      <Name>Objects\tex1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Objects\tex1.xnb</Output>
+      <Time>2013-11-15T21:02:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\tex2.png</Source>
+      <Name>Objects\tex2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Objects\tex2.xnb</Output>
+      <Time>2013-11-15T21:08:55+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\tex3.png</Source>
+      <Name>Objects\tex3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Objects\tex3.xnb</Output>
+      <Time>2013-11-15T21:05:04.8979857+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\tex4.png</Source>
+      <Name>Objects\tex4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Objects\tex4.xnb</Output>
+      <Time>2013-11-15T21:10:36.3809454+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\tex5.png</Source>
+      <Name>Objects\tex5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Objects\tex5.xnb</Output>
+      <Time>2013-11-15T21:12:05.312032+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\1774.png</Source>
+      <Name>Animated\1774</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\1774.xnb</Output>
+      <Time>2013-11-18T19:05:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\1775.png</Source>
+      <Name>Animated\1775</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\1775.xnb</Output>
+      <Time>2013-11-18T19:05:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\1776.png</Source>
+      <Name>Animated\1776</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\1776.xnb</Output>
+      <Time>2013-11-18T19:05:45+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\1777.png</Source>
+      <Name>Animated\1777</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\1777.xnb</Output>
+      <Time>2013-11-18T19:05:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\tex6.png</Source>
+      <Name>Objects\tex6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Objects\tex6.xnb</Output>
+      <Time>2013-11-28T00:01:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\samusjump.png</Source>
+      <Name>Animated\samusjump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\samusjump.xnb</Output>
+      <Time>2013-11-28T00:43:09.1772958+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\shot.png</Source>
+      <Name>Animated\shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\shot.xnb</Output>
+      <Time>2013-11-28T21:16:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\enemy.png</Source>
+      <Name>Animated\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\enemy.xnb</Output>
+      <Time>2013-12-01T17:22:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Animated\qu.png</Source>
+      <Name>Animated\qu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Animated\qu.xnb</Output>
+      <Time>2013-12-01T21:25:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\01 - Title.mp3</Source>
+      <Name>Sounds\01 - Title</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\01 - Title.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\01 - Title.wma</Extra>
+      <Time>2013-11-15T20:27:07.9077493+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\03 - Brinstar.mp3</Source>
+      <Name>Sounds\03 - Brinstar</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\03 - Brinstar.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\03 - Brinstar.wma</Extra>
+      <Time>2013-11-15T20:23:18.554631+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\06 - Norfair.mp3</Source>
+      <Name>Sounds\06 - Norfair</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\06 - Norfair.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\06 - Norfair.wma</Extra>
+      <Time>2013-11-15T20:27:18.1793368+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\09 - Tourian.mp3</Source>
+      <Name>Sounds\09 - Tourian</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\09 - Tourian.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\09 - Tourian.wma</Extra>
+      <Time>2013-11-15T20:27:24.3716909+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\12 - Ending.mp3</Source>
+      <Name>Sounds\12 - Ending</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\12 - Ending.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\12 - Ending.wma</Extra>
+      <Time>2013-11-15T20:28:06.1350797+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\07 - Kraid.mp3</Source>
+      <Name>Sounds\07 - Kraid</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\07 - Kraid.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\07 - Kraid.wma</Extra>
+      <Time>2013-11-28T00:10:28.2131351+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-12-02T12:48:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ice_beam.wav</Source>
+      <Name>Sounds\ice_beam</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\ice_beam.xnb</Output>
+      <Time>2013-12-02T13:32:39.0143682+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\jump.wav</Source>
+      <Name>Sounds\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\jump.xnb</Output>
+      <Time>2013-12-02T13:32:39.0183685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\samus_die.wav</Source>
+      <Name>Sounds\samus_die</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\Sounds\samus_die.xnb</Output>
+      <Time>2013-12-02T13:32:39.0223687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>para1.png</Source>
+      <Name>para1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\para1.xnb</Output>
+      <Time>2013-12-03T15:38:03.6892932+01:00</Time>
+    </Item>
+    <Item>
+      <Source>para2.png</Source>
+      <Name>para2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\para2.xnb</Output>
+      <Time>2013-12-03T15:39:52.9885447+01:00</Time>
+    </Item>
+    <Item>
+      <Source>para3.png</Source>
+      <Name>para3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\para3.xnb</Output>
+      <Time>2013-12-03T15:41:43.6448739+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupYContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupYContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 4 - Bubble Bobble\Inlämning\Projekt4_byYakupY\Projekt4_byYakupY\Projekt4_byYakupY\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-03T03:46:07.5293351+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
